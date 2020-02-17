@@ -66,13 +66,3 @@ int		get_next_line(const int fd, char **line)
 		return (0);
 	return (searchnewline(s, line, fd, ret));
 }
-
-
-line = firstline
-
-strsub
-
-line = firstline
-		secondline
-
-tmp = secondline
